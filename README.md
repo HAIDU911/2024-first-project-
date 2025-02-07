@@ -1,5 +1,5 @@
 # 2024-first-project-
-Here's an explanation of the code:
+Here's an explanation of the code: 
 
 Library Management System
 
